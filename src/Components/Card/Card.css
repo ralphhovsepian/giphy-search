@@ -1,0 +1,12 @@
+img {
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+img:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+/*# sourceMappingURL=Card.css.map */
